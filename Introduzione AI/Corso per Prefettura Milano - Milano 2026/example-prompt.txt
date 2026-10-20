@@ -1,0 +1,54 @@
+Esempio 1 - Word con Copilot
+
+=======================================================================================================================================================================
+
+Analizza attentamente il documento e produci una **sintesi strutturata in lingua italiana**, chiara, rigorosa e fedele al contenuto originale.
+
+Organizza la sintesi nelle seguenti sezioni:
+
+1. **Argomento e obiettivi:** descrivi brevemente il tema principale e le finalità del documento.
+2. **Contenuti principali:** riassumi i concetti fondamentali, le argomentazioni e gli elementi più significativi.
+3. **Metodologia:** se presente, descrivi l'approccio metodologico adottato.
+4. **Risultati ed evidenze:** evidenzia i risultati più importanti, includendo eventuali dati quantitativi.
+5. **Conclusioni:** riporta le conclusioni degli autori e le eventuali implicazioni pratiche.
+6. **Punti chiave:** elenca cinque messaggi fondamentali da ricordare.
+
+**Indicazioni aggiuntive:**
+- Utilizza un linguaggio professionale ma comprensibile anche a un lettore non specialista.
+- Mantieni una lunghezza complessiva di circa 600–800 parole.
+- Evita ripetizioni e dettagli secondari.
+- Non aggiungere informazioni non presenti nel documento.
+- Quando possibile, indica le pagine o le sezioni da cui sono tratte le informazioni.
+- Se una delle sezioni richieste non è pertinente, omettila anziché inventarne il contenuto.
+
+=======================================================================================================================================================================
+
+Dal testo alla tabella 
+
+Identifica i principali concetti del documento e organizza le informazioni in una tabella con quattro colonne: argomento, descrizione, evidenze e 
+implicazioni pratiche. Inserisci la tabella al termine del documento.
+
+=======================================================================================================================================================================
+
+Esempio 1 - Excel con Copilot
+
+ Aggiungi una colonna con la percentuale di pratiche evase sul totale ricevute. Indica il mese con la percentuale piu'
+ bassa e crea un grafico a barre che confronti ricevute ed evase.
+ 
+=======================================================================================================================================================================
+
+Esempio 1 - Power Point con Copilot
+
+Crea una presentazione PowerPoint di **8 slide in italiano** basata sul documento allegato, dedicato all'impatto dell'intelligenza artificiale nel settore finanziario.
+
+La presentazione deve:
+- Riassumere i principali contenuti del documento, evidenziando opportunità, rischi e aspetti normativi.
+- Essere adatta a un pubblico non specialistico.
+- Utilizzare uno stile professionale e moderno, con poco testo, immagini, icone e diagrammi.
+- Evidenziare i messaggi chiave di ciascuna slide.
+- Includere una slide finale con le principali conclusioni.
+
+**Non aggiungere informazioni non presenti nel documento originale.**
+ 
+=======================================================================================================================================================================
+
